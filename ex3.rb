@@ -1,0 +1,33 @@
+#prints string
+puts "I will now count my chickens:"
+
+#string with result of computation inside brackets
+puts "Hens #{25 + 30 / 6}"
+puts "Roosters #{100 - 25 * 3 % 4}"
+
+#prints string
+puts "Now I will count the eggs:"
+
+#prints result of computation
+puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
+
+#prints string
+puts "Is it true that 3 + 2 < 5 - 7?"
+
+#prints result of computation
+puts 3 + 2 < 5 - 7
+
+#string with result of computation inside brackets
+puts "What is 3 + 2? #{3 + 2}"
+puts "What is 5 - 7? #{5 - 7}"
+
+#prints string
+puts "Oh, that's why it's false."
+
+#prints string
+puts "How about some more."
+
+#string with result of computation inside brackets
+puts "Is it greater? #{5 > -2}"
+puts "Is it greater or equal? #{5 >= -2}"
+puts "Is it less or equal? #{5 <= -2}"
